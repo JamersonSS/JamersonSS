@@ -1,4 +1,4 @@
- # Olá, sou o Jamerson S. Silva!
+ # Olá, sou o Jamerson!
 
 ### Atualmente estou estudando Html5__Css3__Javascript__Python. ###
 
