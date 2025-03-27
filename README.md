@@ -1,6 +1,6 @@
  # Olá, sou o Jamerson S. Silva!
 
-### 🌱Atualmente estou estudando Html5__Css3__Javascript__Python.
+### 🌱Atualmente estou estudando Html5__Css3__Javascript__Python. ###
 
 </div>
  <div style="d-flex justify-content-around""><br>
